@@ -1,0 +1,29 @@
+[14:45:36] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:45:36] [Server thread/INFO]: Loading properties
+[14:45:36] [Server thread/INFO]: Default game type: SURVIVAL
+[14:45:36] [Server thread/INFO]: Generating keypair
+[14:45:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:45:36] [Server thread/INFO]: Using epoll channel type
+[14:45:36] [Server thread/INFO]: Preparing level "world"
+[14:45:37] [Server thread/INFO]: Loaded 488 advancements
+[14:45:37] [Server thread/INFO]: Preparing start region for level 0
+[14:45:38] [Server thread/INFO]: Preparing spawn area: 10%
+[14:45:39] [Server thread/INFO]: Preparing spawn area: 20%
+[14:45:40] [Server thread/INFO]: Preparing spawn area: 34%
+[14:45:41] [Server thread/INFO]: Preparing spawn area: 54%
+[14:45:42] [Server thread/INFO]: Preparing spawn area: 74%
+[14:45:43] [Server thread/INFO]: Preparing spawn area: 92%
+[14:45:43] [Server thread/INFO]: Done (7.107s)! For help, type "help" or "?"
+[14:48:53] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[14:48:56] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[14:48:59] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[14:48:59] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[14:48:59] [Server thread/INFO]: /ban <name> [reason ...]
+[14:48:59] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[14:48:59] [Server thread/INFO]: /banlist [ips|players]
+[14:48:59] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[14:48:59] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[14:48:59] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[14:48:59] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[14:49:05] [Server Shutdown Thread/INFO]: Stopping server
+[14:49:05] [Server Shutdown Thread/INFO]: Saving players
